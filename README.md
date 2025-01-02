@@ -8,8 +8,8 @@ Make sure java, allure, maven have been installed. 2.1 java --version 2.2 allure
 After completing the above commands use 
   1. npm install
   2. set LAMBDATEST=true
-    set LT_USERNAME=valleeswaraamuthan
-    set LT_PASSWORD=v45kYD8yCfVSt6A7vZS8cSzrvksicJdUEyOJzfpB3wwq2sdajU
+    set LT_USERNAME=your lambdatest uername
+    set LT_PASSWORD=your lambdatest access key
     set browser=edge
     npx wdio run wdio.conf.js
 to run the project
