@@ -1,0 +1,117 @@
+{
+    "jobCountTestData": [
+      {
+        "jobCount": 2,
+        "pageURLContent": "careers",
+        "tableHeadingValue": "Current Openings"
+      },
+      {
+        "jobCount": 2,
+        "pageURLContent": "careers",
+        "tableHeadingValue": "Current Openings"
+      }
+    ],
+    "viewAllCustomerStoryTestData": [
+      {
+        "pageURLContent": "customer-stories",
+        "filterLabel": "Customer Success Stories",
+        "filterText": "TUMI"
+      },
+      {
+        "pageURLContent": "customer-stories",
+        "filterLabel": "Customer Success Stories",
+        "filterText": "Mulberry"
+      }
+    ],
+    "customerSuccessStoryTestData": [
+      {
+        "pageURLContent": "customer-stories",
+        "filterLabel": "Customer Success Stories",
+        "filterText": "Tulip"
+      },
+      {
+        "pageURLContent": "customer-stories",
+        "filterLabel": "Customer Success Stories",
+        "filterText": "Mankind"
+      }
+    ],
+    "caseStudiesTestData": [
+      {
+        "pageURLContent": "case-studies",
+        "postTextValue": "How one global brand boosted AOV by 48%"
+      },
+      {
+        "pageURLContent": "case-studies",
+        "postTextValue": "How AG Jeans completely transformed their brand experience"
+      }
+    ],
+    "masterClassTestData": [
+      {
+        "pageURLContent": "masterclass",
+        "postTextValue": "Chief Customer and Digital Officer at Canada’s top bookstore shares her insights on modern retail"
+      },
+      {
+        "pageURLContent": "masterclass",
+        "postTextValue": "Theory’s Director of Global Learning and Communications explains how to tell a global brand story"
+      }
+    ],
+    "partnersTestData": [
+      {
+        "pageURLContent": "partners"
+      },
+      {
+        "pageURLContent": "partners"
+      }
+    ],
+    "securityAndIntegratorsTestData": [
+      {
+        "pageURLContent": "security-integrations",
+        "textContainer": ["ERP", "Identity and access management", "Inventory management", "SMS service",
+          "Order management", "Payment gateway", "PIM", "CRM", "Address validation service", "Digital commerce platform",
+          "Email services", "POS", "Sales tax service"],
+        "extensibilityHeadingValue": "Adapt to custom processes and evolving requirements",
+        "securityHeadingValue": "Enterprise-grade security and data privacy"
+      }
+    ],
+    "retailExcellenceTestData": [
+      {
+        "pageURLContent": "retail-excellence",
+        "subHeadingContainer": ["Industry Insights", "Benefit Modeling", "Best Practice Consulting", "Training Expertise"],
+        "headingHeaderText": "Retail Excellence"
+      }
+    ],
+    "videoOperationsTestData": [
+      {
+        "pageURLContent": "videos",
+        "videoTitleContainer": ["Tap to Pay Demo", "Appointments Demo", "Pay by Link Demo", "Point of Sale Demo",
+          "In-store Fulfillment Demo", "Clienteling Demo"],
+        "videoSubtitleValue": "English",
+        "videoQualityValue": "540p",
+        "videoPlaybackRate": "0.5x",
+        "secondsToOffsetTheVideo": 10,
+        "videoCount": 6
+      },
+      {
+        "pageURLContent": "videos",
+        "videoTitleContainer": ["Tap to Pay Demo", "Appointments Demo", "Pay by Link Demo", "Point of Sale Demo",
+          "In-store Fulfillment Demo", "Clienteling Demo"],
+        "videoSubtitleValue": "Off",
+        "videoQualityValue": "360p",
+        "videoPlaybackRate": "0.75x",
+        "secondsToOffsetTheVideo": 15,
+        "videoCount": 6
+      }
+    ],
+    "brochurePageTestData": [
+      {
+        "pageURLContent": "brochures",
+        "brochureTitle": "Tulip Offline Mode",
+        "brochureURLValue": "Offline"
+      },
+      {
+        "pageURLContent": "brochures",
+        "brochureTitle": "Tulip Clienteling",
+        "brochureURLValue": "Clientelling"
+      }
+    ]
+  }
